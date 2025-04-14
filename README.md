@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @swiftdodger
-- 👀 I’m interested in Python/AI
-- 🌱 I’m currently learning Python Advanced
+- 👋 Hi, I’m Flavio-Gabriel Marinov
+- 👀 I’m interested in Python\AI
+- 🌱 I’m currently studying Software Engineering
 - 💞️ I’m looking to collaborate on small/medium python projects 
 - 📫 How to reach me on Gmail - flaviogabrielbusiness@gmail.com
 
