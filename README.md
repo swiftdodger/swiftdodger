@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Python Developer | Web Enthusiast**
 
-Hi there! I’m Flavio, a passionate software engineering student at Software University (SoftUni), currently sharpening my skills in backend development, data handling, and building scalable web applications. I love writing clean, maintainable code and am always excited to learn new technologies that solve real-world problems.
+Hi there! I’m Flavio-Gabriel, a passionate software engineering student at Software University (SoftUni), currently sharpening my skills in backend development, data handling, and building scalable web applications. I love writing clean, maintainable code and am always excited to learn new technologies that solve real-world problems.
 
 ---
 
