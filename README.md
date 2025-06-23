@@ -1,48 +1,42 @@
-# 👨‍💻 Flavio-Gabriel Marinov
+👨‍💻 Flavio-Gabriel Marinov
+Software Engineering Student | Python Developer | Web Enthusiast | Aspiring AI Developer 
 
-**Software Engineering Student | Python Developer | Web Enthusiast**
+Hi there! I’m Flavio-Gabriel, a passionate software engineering student at Software University (SoftUni), currently sharpening my skills in backend development, data handling, and building scalable web applications. I love writing clean, maintainable code and am always excited to explore new technologies—especially those that solve real-world problems through automation and intelligence.
 
-Hi there! I’m Flavio-Gabriel, a passionate software engineering student at Software University (SoftUni), currently sharpening my skills in backend development, data handling, and building scalable web applications. I love writing clean, maintainable code and am always excited to learn new technologies that solve real-world problems.
+🚀 Tech Stack
+Languages: Python, JavaScript, HTML, CSS
 
----
+Frameworks & Libraries: Django
 
-## 🚀 Tech Stack
+Databases: MySQL, PostgreSQL
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** Django  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker  
-- **Testing:** PyTest  
+Tools: Git
 
----
+Testing: PyTest
 
-## 📚 What I'm Learning
+📚 What I'm Learning
 
-- Advanced Python & OOP  
-- Full-Stack Web Development with Django  
-- Data modeling & ORM  
-- API development and integration  
-- Software testing practices  
+Full-Stack Web Development with Django
 
----
+Data modeling & ORM
 
-## 🌱 Projects
+API development and integration
 
-I’m currently working on projects that showcase my Python and Django knowledge. I focus on building practical, real-world apps and improving my code structure, testing, and deployment workflows.
+Software testing practices
 
-> Check out my pinned repositories to see what I’ve been up to!
+Intro to AI & Machine Learning fundamentals
 
----
+🌱 Projects
+I’m currently working on projects that showcase my Python and Django knowledge. I focus on building practical, real-world apps while refining my code structure, testing strategies, and deployment workflows. I’m also starting to experiment with small AI and automation scripts using Python.
 
-## 📫 Get in Touch
+Check out my pinned repositories to see what I’ve been up to!
 
-- 📧 flaviogabrielbusiness@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/flavio-gabriel-marinov-9441002ab/)  
-- 🐙 [GitHub](https://github.com/swiftdodger)
+📫 Get in Touch
+📧 flaviogabrielbusiness@gmail.com
 
----
+🔗 LinkedIn
 
-## ✈️ Let's Build Something That Flies (Metaphorically 😄)
+🐙 GitHub
 
-Whether it’s code that scales or dashboards that shine, I’m eager to contribute to meaningful software—especially in data-driven or aviation-inspired environments!
-
+✈️ Let's Build Something That Flies (Metaphorically 😄)
+Whether it’s code that scales, dashboards that shine, or smart systems that adapt, I’m eager to contribute to meaningful software—especially in data-driven or AI-powered environments!
